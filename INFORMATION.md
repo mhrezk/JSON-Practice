@@ -74,6 +74,10 @@ Below are various websites that assist in confirming the validity of the syntax 
 - [JSONLint: The JSON Validator](https://jsonlint.com/)
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/)
 
+## Cross Site Request Forgery (CSRF)
+
+To avoid security concerns with `JSON` usage, it is important to remember that "Top Level `JSON` Arrays" should be avoided. These `JSON` files begin as an array, instead of an object, which provide opportunities for insecurities.
+
 ## Usage
 
 The repository is openly available to whomever wishes to clone and improve upon it. I would kindly ask if you could submit pull requests for your improvements so that everyone can access such enhancements.
