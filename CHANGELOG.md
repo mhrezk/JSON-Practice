@@ -1,6 +1,12 @@
 # Change Log
 
-[JSON Practice](https://github.com/mhrezk/JSON-Practice)
+Repository: [JSON Practice](https://github.com/mhrezk/JSON-Practice)
+
+## 1.2.2 (08-03-2022)
+
+### Updated
+
+* Formatted repository link.
 
 ## 1.2.1 (08-03-2022)
 
