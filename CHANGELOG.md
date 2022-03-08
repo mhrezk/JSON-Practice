@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.0 (08-03-2022)
+
+### Added
+
+* Added `.gitignore` file.
+
 ## 1.1.0 (08-03-2022)
 
 ### Added
